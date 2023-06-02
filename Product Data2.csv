@@ -1,0 +1,1001 @@
+product_id,vehicle_maker,vehicle_model,vehicle_color,car_model_year,car_price
+4383,Jaguar,XJ Series,Indigo,2003,92186.18
+3513,Mercury,Monterey,Orange,2006,71183.23
+4520,Toyota,Land Cruiser,Fuscia,2011,82108.12
+3616,Mitsubishi,Lancer,Blue,2004,96497.56
+4700,Nissan,NX,Purple,1992,96090.34
+4880,Mercury,Sable,Green,1999,76200.97
+4372,Mazda,626,Aquamarine,1991,96579.16
+4897,Ferrari,458 Italia,Red,2010,90756.74
+3828,Dodge,Avenger,Blue,1997,87162.3
+4949,Pontiac,Parisienne,Red,1986,87985.16
+4504,Infiniti,J,Indigo,1993,93570.85
+3550,Dodge,Intrepid,Violet,1993,75445.54
+4585,Subaru,Outback,Pink,2011,81766.6
+3796,Toyota,Highlander,Crimson,2003,95030.52
+3765,Chevrolet,2500,Turquoise,1994,71241.16
+3966,Buick,LeSabre,Crimson,1999,94304.16
+3777,Volkswagen,Cabriolet,Orange,1992,76446.29
+4688,Pontiac,Gemini,Orange,1987,88633.4
+4179,Nissan,Quest,Blue,1993,76875.97
+3978,Chevrolet,Silverado 2500,Teal,2009,93102.86
+4572,Honda,Ridgeline,Pink,2007,99884.33
+4583,Ford,F-Series,Violet,1997,77641.54
+3822,Dodge,Sprinter,Purple,2006,71744.46
+4027,Ford,Flex,Indigo,2010,84397.46
+4690,Toyota,4Runner,Mauv,2000,75847.61
+4158,Lincoln,MKX,Yellow,2009,94440.35
+4367,Pontiac,Bonneville,Maroon,1986,70410.7
+4939,Dodge,Avenger,Yellow,1996,72679.62
+4815,Buick,Skylark,Purple,1989,88576.34
+4012,GMC,Sierra 1500,Turquoise,2005,82400.05
+4837,Mazda,MX-5,Fuscia,2010,91370.21
+3688,GMC,Jimmy,Orange,1999,83154.71
+4095,Isuzu,Hombre,Fuscia,1999,89872.32
+4805,Mazda,MX-3,Pink,1992,99459.69
+3539,Ford,Ranger,Aquamarine,1985,82570.38
+4249,Dodge,Stratus,Green,2003,91463.61
+4419,Buick,Regal,Pink,1992,95805.39
+4226,Dodge,Neon,Pink,1996,95809.16
+4395,Ford,Ranger,Red,1994,82539.45
+4916,Audi,A6,Yellow,2005,75802.65
+4090,Lincoln,Continental,Puce,2000,80356.64
+3803,Land Rover,Range Rover,Crimson,1986,98136.58
+3617,Austin,Mini Cooper,Indigo,1964,77704.86
+3644,Pontiac,Grand Prix,Red,1983,74099.22
+4923,Suzuki,Samurai,Aquamarine,1993,73193.58
+4142,Ford,Flex,Indigo,2010,77400.3
+3739,Volkswagen,Passat,Mauv,2012,90876.65
+4122,Ford,E350,Mauv,2004,89305.88
+4322,Ferrari,F430,Maroon,2006,77381.95
+4617,Pontiac,Grand Prix,Goldenrod,2008,85814.14
+3717,GMC,Yukon XL 1500,Violet,2009,74178.21
+3855,Infiniti,Q,Orange,2001,84393.05
+4831,Pontiac,Grand Prix,Purple,1996,71216.43
+3758,Mazda,Familia,Blue,1991,70695.34
+3859,Ford,F150,Blue,2009,75319.61
+3680,Buick,Roadmaster,Purple,1993,93503.66
+3853,Ford,Excursion,Mauv,2002,98095.32
+3841,Nissan,Quest,Teal,1999,80545.67
+3724,Jeep,Wrangler,Red,1997,97146.29
+4843,Dodge,Caliber,Orange,2007,98341.07
+4531,Hyundai,Genesis,Turquoise,2010,99748.1
+4454,Ford,F350,Fuscia,2000,89876.84
+4819,BMW,5 Series,Goldenrod,2012,91914.23
+4386,Chevrolet,Corvette,Purple,2000,89652.08
+3706,Bentley,Continental,Aquamarine,2008,79900.39
+4112,Chevrolet,Malibu,Violet,2006,97842.92
+4726,Buick,Rainier,Green,2007,80030.14
+3838,GMC,Savana 1500,Purple,2007,71516.69
+4937,MINI,Countryman,Aquamarine,2012,95810.29
+4073,Lincoln,Navigator,Indigo,2007,90567.48
+3885,Oldsmobile,Regency,Puce,1997,70032.15
+4245,Mercedes-Benz,CL-Class,Red,2011,85618.66
+4613,Chevrolet,Suburban 1500,Green,2003,78407.47
+3850,Audi,S6,Violet,2009,99513.84
+4232,Mitsubishi,Galant,Aquamarine,1993,72361.16
+4948,Mercedes-Benz,GL-Class,Yellow,2012,79109.5
+3979,Buick,Electra,Indigo,1984,72196.97
+4968,Pontiac,Sunbird,Crimson,1983,81918.92
+3875,Toyota,Celica,Red,1976,72482.47
+3990,BMW,M6,Yellow,2010,93623.26
+3544,Pontiac,Trans Sport,Puce,1996,92888.62
+4964,Jeep,Commander,Yellow,2010,86241.63
+3592,Lamborghini,Gallardo,Purple,2009,74932.59
+4418,Dodge,Ram Van 3500,Puce,1996,97330.31
+3589,Subaru,Impreza,Indigo,1999,88383.68
+4883,Toyota,Highlander,Yellow,2009,71297.03
+4488,Chevrolet,Monte Carlo,Aquamarine,1996,71890.78
+3902,Mazda,Mazdaspeed 3,Purple,2008,71575.52
+4639,BMW,525,Blue,2002,72289.11
+4600,Chevrolet,Silverado 1500,Violet,2004,71938.64
+4236,Ford,Aspire,Goldenrod,1994,93200
+4879,Mazda,Familia,Orange,1990,95824.89
+3594,Audi,A8,Red,2003,86064.2
+3862,Buick,Riviera,Indigo,1987,85839.34
+4989,GMC,Rally Wagon 1500,Indigo,1993,94176.17
+4620,Mazda,B2500,Mauv,2001,87786.93
+4658,Volvo,C70,Mauv,2013,75584.52
+4994,Volvo,V90,Indigo,1997,95746.33
+3520,Dodge,Ram 3500,Pink,1994,75520.02
+3709,Isuzu,Rodeo,Orange,2004,89332.77
+4763,Mazda,Protege,Mauv,1993,88807.03
+3590,Volvo,C70,Turquoise,1999,97959.34
+4675,BMW,M3,Green,2012,95666.22
+3795,Plymouth,Reliant,Purple,1981,87225.58
+3854,Pontiac,Vibe,Indigo,2006,81965.27
+3732,Porsche,Boxster,Aquamarine,2000,99371.9
+4137,Volkswagen,GTI,Turquoise,1997,81770.15
+3844,Toyota,Solara,Yellow,2003,79523.75
+3564,Chevrolet,Impala,Indigo,1994,81330.27
+4121,Mercedes-Benz,C-Class,Red,2012,91259.07
+3904,Plymouth,Voyager,Puce,1992,97909.75
+4865,Mitsubishi,Montero,Indigo,1999,70958.45
+4065,Buick,Century,Purple,2005,88236.71
+4269,Volvo,C70,Aquamarine,2012,94649.77
+3511,Maserati,Quattroporte,Green,2005,85502
+3922,Mercedes-Benz,300SE,Goldenrod,1993,74841.18
+4497,Suzuki,Sidekick,Puce,1997,70663.32
+4958,Infiniti,Q,Violet,2004,99894.62
+3824,Suzuki,XL-7,Teal,2006,95225.15
+4443,Kia,Soul,Violet,2012,88024.28
+4860,Subaru,Legacy,Pink,2010,70356.7
+3936,Acura,Integra,Mauv,1998,86524.22
+4810,Lexus,GX,Teal,2003,85805.16
+4872,Nissan,GT-R,Turquoise,2011,86869.83
+3970,Chevrolet,Bel Air,Goldenrod,1967,79667.59
+4340,Mitsubishi,Galant,Aquamarine,2004,98996.09
+3545,Chevrolet,Malibu,Goldenrod,1997,94720.55
+4339,Mercury,Grand Marquis,Crimson,1990,93545.81
+3865,Subaru,Impreza,Maroon,2006,96891.24
+3993,Ford,Aspire,Puce,1995,86250.64
+4258,Pontiac,Grand Prix,Indigo,1994,98021.32
+4982,Chevrolet,Tahoe,Goldenrod,2007,86136.57
+4626,Nissan,Pathfinder Armada,Turquoise,2004,78605.76
+3663,Chevrolet,Corvette,Indigo,1953,89007.64
+4125,Daewoo,Lanos,Indigo,2001,82403.57
+4920,Scion,xB,Pink,2005,88970.78
+3932,Chevrolet,APV,Mauv,1993,80128.82
+4922,Nissan,240SX,Purple,1995,89597.91
+3887,Geo,Metro,Red,1992,96551.74
+3582,Volvo,S40,Purple,2000,75880.16
+4661,Volkswagen,GTI,Crimson,1991,99371.71
+4146,Jaguar,XK,Blue,2006,70649.36
+3825,Lincoln,Mark VIII,Blue,1994,94137.05
+4595,Land Rover,Freelander,Crimson,2009,95285.04
+4094,Ford,Econoline E350,Goldenrod,1992,89511.02
+4576,Chevrolet,Tahoe,Violet,2005,84615.65
+4888,Toyota,Sequoia,Yellow,2006,81880.62
+3953,Lincoln,Mark VIII,Maroon,1997,77704.42
+4381,Lincoln,MKZ,Violet,2007,94195.57
+4752,Toyota,Tundra,Crimson,2010,79477.32
+4222,Mercedes-Benz,SL-Class,Crimson,2009,93184.24
+4806,Volvo,C70,Blue,2013,86174.22
+4020,Dodge,Viper,Khaki,1999,84622.88
+4839,Chevrolet,3500,Maroon,1998,82631.63
+3691,Ford,Taurus,Indigo,2010,82776.6
+3508,Jaguar,S-Type,Violet,2006,94846.19
+4459,Hyundai,Sonata,Crimson,1994,94823.48
+4008,Audi,5000S,Aquamarine,1987,99548.33
+3776,MG,MGB,Khaki,1977,83113.43
+4876,BMW,530,Purple,2002,79759.44
+4770,Dodge,Neon,Blue,2002,72722.97
+4786,GMC,Canyon,Goldenrod,2007,93158.79
+3784,Hyundai,Veracruz,Khaki,2009,70173.7
+4833,Volvo,C70,Turquoise,2010,78682.13
+3745,Acura,TL,Pink,2007,80721.88
+4303,Ram,Dakota,Green,2011,75793.74
+3938,GMC,Savana 3500,Teal,2007,90667.01
+4801,Porsche,Boxster,Purple,2002,84478.08
+4298,BMW,M Roadster,Yellow,2008,83038.49
+3985,Lexus,RX,Aquamarine,2002,95699.67
+3778,Honda,CR-X,Goldenrod,1985,81399.78
+4509,Hyundai,Tucson,Red,2010,99704.46
+4036,Ford,Bronco II,Turquoise,1989,78372.26
+4667,Mazda,Miata MX-5,Crimson,2008,93152.59
+4338,Buick,Park Avenue,Red,2000,99336.89
+3900,Suzuki,Grand Vitara,Goldenrod,2002,86923.41
+3746,Mazda,MX-5,Purple,2001,77562.54
+4550,Audi,A8,Indigo,2012,86074.14
+3519,Dodge,Dakota,Blue,1993,75369.26
+4196,Nissan,Titan,Puce,2009,90636.01
+4534,Toyota,Land Cruiser,Turquoise,1992,87230.48
+4435,Subaru,Impreza,Khaki,1996,96712
+4057,Buick,Roadmaster,Crimson,1991,96216.23
+4154,Isuzu,Rodeo,Green,1998,71133.07
+4532,Bentley,Continental Flying Spur,Fuscia,2009,73653.04
+4420,Maserati,GranTurismo,Orange,2011,91276.11
+3650,Mercedes-Benz,SL-Class,Purple,1995,95008.58
+3501,Volkswagen,GTI,Blue,2011,80690.46
+3537,Chevrolet,Camaro,Turquoise,1970,80887.67
+4740,Mazda,MX-6,Turquoise,1996,89147.6
+4706,Mazda,B-Series,Khaki,2006,77883.92
+4190,Cadillac,Escalade EXT,Blue,2010,72719.15
+4450,Subaru,Alcyone SVX,Red,1994,81030.05
+4956,Dodge,Ram Wagon B150,Purple,1994,99490.76
+4183,Honda,Civic Si,Mauv,2006,95633.17
+4681,Lincoln,Aviator,Orange,2004,97440.6
+4997,Pontiac,Fiero,Violet,1984,70851.06
+4934,Lexus,ES,Mauv,2012,97391.9
+3977,Scion,xD,Blue,2011,77735.37
+4370,Saturn,VUE,Purple,2009,96258.12
+4629,Volkswagen,Cabriolet,Fuscia,1990,94221.38
+4035,BMW,M3,Mauv,2012,97713.69
+4627,Buick,Riviera,Yellow,1997,71645.3
+4307,Bentley,Azure,Indigo,2010,85728.11
+4998,Dodge,Dynasty,Yellow,1992,99698.28
+4720,Pontiac,Grand Prix,Fuscia,2002,80727.51
+3786,Mitsubishi,Endeavor,Orange,2009,84706.81
+4991,Pontiac,Grand Prix,Aquamarine,1992,94894.77
+4231,Mazda,MX-3,Pink,1994,83302.01
+3710,Mercedes-Benz,E-Class,Aquamarine,2002,90113.46
+3560,Pontiac,Montana,Turquoise,2005,71224.95
+4130,Mazda,Protege,Green,1998,78948.71
+4400,Mercedes-Benz,SLS-Class,Pink,2011,81230.36
+4268,Mitsubishi,Galant,Indigo,1988,98595.76
+4972,Toyota,Tacoma Xtra,Maroon,2003,76048.61
+4588,Hyundai,Elantra,Khaki,2004,89167.22
+3903,Hyundai,Tiburon,Purple,2003,74809.42
+4423,Mazda,B-Series Plus,Violet,2003,95019.74
+3998,Suzuki,Vitara,Red,2004,82663.59
+3882,Ford,Econoline E250,Fuscia,1999,71998.06
+4380,Morgan,Aero 8,Maroon,2007,73107.99
+4954,BMW,X3,Pink,2006,99052.11
+4480,Lincoln,LS,Crimson,2002,84795.67
+4695,Chevrolet,1500,Orange,1997,86014.7
+3861,Mercury,Sable,Aquamarine,1998,83897.83
+4866,Chevrolet,Suburban 1500,Orange,2009,93066.53
+4976,Chevrolet,K5 Blazer,Purple,1995,76966.08
+4602,Lincoln,MKX,Maroon,2009,98757.32
+4521,Toyota,4Runner,Crimson,1999,72732.05
+3599,Infiniti,G25,Indigo,2012,93388.29
+4682,BMW,X3,Blue,2008,80135.57
+4337,Lamborghini,Diablo,Teal,1991,93448.22
+4152,GMC,Savana 3500,Blue,2007,79925.88
+3860,Buick,Regal,Orange,2011,93563.33
+4957,Volvo,S80,Turquoise,2003,77606.71
+4657,Mitsubishi,Truck,Pink,1987,89080.71
+3643,Jeep,Comanche,Pink,1992,96416.25
+3774,Volkswagen,Type 2,Red,1988,77798.74
+3528,Toyota,Solara,Blue,2004,72305.48
+4210,Kia,Forte,Turquoise,2011,88119.82
+3624,Acura,RL,Blue,2000,90507.79
+4315,GMC,3500,Maroon,1994,93635.82
+4548,Pontiac,6000,Yellow,1985,77566.5
+3992,Chevrolet,Camaro,Mauv,1999,87633.51
+4451,Mercedes-Benz,CL-Class,Goldenrod,2009,70414.13
+4366,Toyota,Tundra,Yellow,2008,88546.23
+4278,Infiniti,QX,Puce,2008,98974.32
+4713,Kia,Borrego,Green,2009,79522.02
+4305,Buick,Roadmaster,Crimson,1994,94275.47
+4781,Buick,Park Avenue,Turquoise,1997,95844.68
+4212,Toyota,Highlander,Purple,2009,78699.86
+3982,Infiniti,QX56,Mauv,2011,79895.42
+4470,MINI,Cooper Countryman,Orange,2012,71661.09
+3881,Ford,Escape,Indigo,2013,70355.73
+4404,Nissan,280ZX,Yellow,1979,89887.22
+3757,Nissan,Frontier,Khaki,2000,71196.44
+4941,BMW,Z4 M,Khaki,2007,90295.13
+4481,Toyota,Venza,Green,2013,83965.79
+4105,Chevrolet,Camaro,Yellow,2002,81814.51
+3980,Volkswagen,Jetta,Orange,1997,98689.33
+4157,Ford,F450,Pink,2009,86923.02
+4748,Buick,Park Avenue,Goldenrod,2004,88228.83
+4840,Ford,Flex,Mauv,2012,82801.19
+4808,Subaru,Tribeca,Maroon,2008,73352.91
+3768,Acura,RL,Indigo,2000,98166.42
+4080,Nissan,Sentra,Turquoise,2011,92154.65
+4845,Chevrolet,Express 1500,Red,2009,88360.26
+4936,Volkswagen,Eos,Indigo,2011,80667.32
+3657,Volkswagen,Golf,Crimson,2006,97678.47
+4477,Audi,A4,Green,1997,82107.77
+4047,Jaguar,XJ Series,Indigo,1999,99091.21
+4992,Chevrolet,Tahoe,Turquoise,2008,75592.73
+3772,Chevrolet,Avalanche 2500,Fuscia,2004,82503.81
+4530,Ford,Bronco,Red,1988,94540.96
+3737,Buick,Rainier,Indigo,2005,73075.58
+3615,Jeep,Wrangler,Maroon,1993,94505.47
+4757,Audi,Allroad,Aquamarine,2005,95802.25
+4885,Dodge,Neon,Aquamarine,1996,72481.67
+4143,Ford,Taurus,Mauv,1986,89115.73
+3886,Toyota,4Runner,Mauv,2010,92431.11
+3641,Maybach,57S,Aquamarine,2005,88219.59
+4962,Pontiac,Grand Prix,Fuscia,1978,82059.55
+4648,Buick,Century,Khaki,1992,80884.6
+4379,Infiniti,G,Green,2007,82257.46
+4026,Land Rover,Range Rover,Khaki,2010,73701.07
+4145,Chrysler,Crossfire Roadster,Mauv,2006,85160.48
+4103,Nissan,Sentra,Pink,2007,79374.33
+4616,Acura,TL,Mauv,2012,77852.75
+4361,Plymouth,Neon,Purple,1996,94338.83
+4551,Ferrari,California,Teal,2010,78136.27
+4029,Kia,Rio,Violet,2011,80693.12
+3565,Mitsubishi,Galant,Maroon,2002,86514.32
+4235,Isuzu,Hombre Space,Maroon,2000,89639.49
+4284,Pontiac,G6,Orange,2005,99451.03
+4734,Pontiac,Firefly,Fuscia,1992,75634.19
+4716,Suzuki,Esteem,Turquoise,1996,99894.46
+3721,Pontiac,Firebird,Crimson,1985,73339.15
+3669,Audi,RS 4,Blue,2008,98495.09
+3652,Cadillac,XLR,Red,2008,75255.84
+4869,Chevrolet,Camaro,Crimson,2002,77928.63
+3837,Chevrolet,Sportvan G30,Teal,1995,95519.06
+4733,Mercedes-Benz,M-Class,Mauv,2002,93295.77
+4677,Pontiac,Firebird,Teal,1991,71319.66
+4209,Oldsmobile,Bravada,Aquamarine,1994,71748.7
+4294,Eagle,Talon,Turquoise,1991,94559.55
+4708,Chevrolet,Suburban 2500,Aquamarine,2009,72298.72
+3682,Chevrolet,Malibu,Green,1999,71372.56
+4126,Audi,A5,Goldenrod,2012,93433.41
+4933,Honda,Accord,Maroon,1985,98576.38
+3905,Honda,Odyssey,Orange,2004,99856.28
+4328,Toyota,Highlander Hybrid,Purple,2007,80033.81933
+3536,Toyota,T100,Violet,1997,75513.03823
+4041,Chevrolet,Cobalt SS,Green,2009,90660.76923
+3683,Plymouth,Laser,Crimson,1989,87890.76883
+4441,Nissan,Maxima,Maroon,1996,91547.6452
+4476,Dodge,Ram 3500,Blue,1995,69412.73443
+3931,Mazda,626,Red,1993,90281.92933
+3730,Mazda,MPV,Green,2004,77117.03753
+4086,Morgan,Aero 8,Green,2007,71317.56913
+4358,Ford,F-Series,Goldenrod,2007,93751.9077
+3829,Maserati,GranTurismo,Aquamarine,2011,91739.12768
+4562,Mercury,Cougar,Aquamarine,1967,72876.31995
+4473,Subaru,Justy,Yellow,1988,82490.5994
+4549,Mercedes-Benz,SLK-Class,Yellow,2011,71249.68175
+4246,Land Rover,Range Rover,Fuscia,2005,73930.6319
+4261,Mitsubishi,Mighty Max Macro,Turquoise,1992,68626.43343
+3655,Mazda,MX-5,Puce,1990,93553.69025
+4566,Ford,Transit Connect,Purple,2010,84311.84808
+4825,GMC,1500,Turquoise,1997,84696.9342
+4928,GMC,Sierra,Indigo,2010,79630.26823
+4884,Pontiac,Sunbird,Purple,1991,73033.6779
+4071,Nissan,Maxima,Red,2008,89876.26683
+3593,Land Rover,Discovery,Pink,1999,97442.15593
+3698,Ford,EXP,Crimson,1987,70296.2087
+4133,Chevrolet,Express 2500,Green,2000,70492.4907
+4656,Mitsubishi,Galant,Red,1994,93673.8641
+3989,Mitsubishi,Precis,Purple,1994,81430.7157
+4699,Mitsubishi,Truck,Goldenrod,1990,79839.01335
+4985,Pontiac,Firebird,Goldenrod,1989,92855.92143
+4368,Lexus,RX,Indigo,2000,86678.51243
+4149,GMC,Canyon,Orange,2008,76398.60435
+3760,Chevrolet,Express 2500,Maroon,2011,82819.44995
+4461,BMW,M5,Goldenrod,2008,90871.97765
+3783,Saab,900,Aquamarine,1989,78309.0108
+4547,Audi,S6,Mauv,2007,75166.79795
+3553,Jeep,Wrangler,Blue,1998,75134.26675
+3689,Audi,TT,Pink,2004,92926.64355
+4990,Saab,900,Purple,1993,88227.64465
+4229,Buick,Skylark,Puce,1997,88825.16108
+4101,Porsche,911,Khaki,2009,87226.49893
+3500,Kia,Rio,Pink,2006,85650.88623
+4552,Hyundai,Sonata,Puce,2000,74445.7744
+4966,Chevrolet,Silverado 1500,Green,2000,81002.48273
+3962,Lincoln,Continental,Red,1995,93973.6438
+3755,BMW,745,Aquamarine,2002,69545.62555
+4487,Toyota,Tacoma Xtra,Khaki,1996,90519.33475
+4474,Mazda,B-Series,Violet,1996,78535.68328
+4089,Lamborghini,Gallardo,Puce,2010,87288.47243
+4539,Volkswagen,Golf,Mauv,1989,71610.70183
+3541,Lexus,IS,Pink,2006,91769.93848
+4475,Chevrolet,3500,Mauv,1993,96752.8327
+3597,Volkswagen,New Beetle,Pink,2001,88430.29018
+4927,Dodge,Ram 3500,Violet,2007,85065.59833
+4321,Mercedes-Benz,CL-Class,Khaki,1999,72168.17985
+4266,Mitsubishi,Diamante,Turquoise,2000,75010.66188
+4756,Plymouth,Colt Vista,Fuscia,1994,84258.68185
+4899,Saab,900,Orange,1987,73557.12915
+3843,Toyota,Celica,Khaki,2003,89934.0664
+4875,Mazda,626,Indigo,1990,77393.86553
+4357,Hyundai,Elantra,Aquamarine,2006,86414.57765
+4896,Acura,NSX,Indigo,1995,87416.3783
+4793,Kia,Rondo,Khaki,2008,71897.3537
+4492,Infiniti,M,Blue,2007,96245.32448
+4768,Lamborghini,Diablo,Red,1995,69655.72138
+3559,Audi,A3,Aquamarine,2012,80859.96323
+4961,Cadillac,CTS-V,Red,2009,84371.80793
+4650,Saab,9-Mar,Green,2005,81335.84933
+4996,GMC,Suburban 1500,Aquamarine,1999,95310.46303
+3923,Cadillac,STS,Khaki,2009,86267.39548
+4061,Dodge,Viper RT/10,Red,1995,78671.5069
+4308,Oldsmobile,Aurora,Fuscia,1996,74574.34498
+4187,Rolls-Royce,Phantom,Blue,2013,93910.2236
+3797,Chrysler,Concorde,Teal,2002,83878.74715
+4320,Chevrolet,Monte Carlo,Aquamarine,1999,76720.17253
+3800,GMC,Sierra 3500,Yellow,2008,89744.55848
+4331,Mazda,CX-7,Green,2007,79037.27763
+4570,Mercedes-Benz,M-Class,Red,1998,72358.20585
+4467,Volvo,C30,Khaki,2012,83253.30355
+4098,Mercedes-Benz,300SL,Pink,1992,82099.12043
+4485,Eagle,Summit,Teal,1995,80132.1265
+4579,Audi,A6,Indigo,1996,72353.20105
+4598,Chevrolet,Suburban 2500,Turquoise,2005,82949.61385
+4074,Lexus,RX,Teal,2001,91781.20905
+4088,GMC,Sierra 3500,Crimson,2009,89215.57458
+3892,Dodge,Ram 3500 Club,Khaki,1995,83607.7646
+4034,Chevrolet,Equinox,Green,2009,70345.11303
+3790,Volkswagen,CC,Turquoise,2009,77330.2987
+4516,Suzuki,SJ,Blue,1985,82059.77605
+4100,Ford,Mustang,Maroon,1994,86181.72738
+4275,Mazda,MPV,Puce,1992,81458.89703
+4007,Mazda,Millenia,Maroon,1998,78418.07048
+4141,Mitsubishi,Galant,Orange,2011,79995.11033
+4295,Mitsubishi,Challenger,Green,2002,92746.36323
+4981,GMC,Yukon XL 1500,Crimson,2013,72967.38385
+3614,Pontiac,LeMans,Fuscia,1990,81996.2581
+3675,Lotus,Esprit,Orange,1993,86116.78228
+3638,Eagle,Vision,Green,1996,69027.2182
+4930,Dodge,Ram 3500,Yellow,2008,82020.54898
+4482,Mercury,Sable,Maroon,2003,79150.85335
+4114,Pontiac,Parisienne,Khaki,1986,84210.44223
+3554,Mercedes-Benz,600SEL,Aquamarine,1993,93532.70333
+3916,Chevrolet,Express 1500,Red,2004,96407.44285
+3585,Jeep,Grand Cherokee,Orange,2009,75271.04833
+3756,Pontiac,1000,Violet,1984,70764.5485
+4314,Audi,Q7,Violet,2012,81670.31073
+4526,Ford,Mustang,Violet,1987,72975.7317
+4164,Mazda,MX-5,Teal,2009,92260.95628
+4132,Buick,Park Avenue,Yellow,2002,76818.19623
+4159,Audi,S5,Mauv,2010,71745.31335
+4794,Chevrolet,Express 3500,Yellow,1996,72815.15778
+3723,Audi,4000,Fuscia,1987,84296.0028
+4042,Chevrolet,Sportvan G10,Maroon,1993,90046.86013
+4816,Cadillac,Catera,Red,1997,69296.50968
+3856,Plymouth,Laser,Maroon,1993,72398.1856
+4659,Porsche,911,Purple,1998,82826.65413
+4693,Ford,Tempo,Turquoise,1988,90619.6067
+4821,Chrysler,Pacifica,Yellow,2004,90031.269
+3960,Isuzu,Trooper,Green,1998,95678.00303
+4221,Volvo,C30,Turquoise,2009,76319.8765
+4207,Land Rover,Defender,Turquoise,1995,93476.55573
+4009,Ford,E250,Blue,2005,83284.9941
+4902,Chevrolet,Avalanche,Puce,2007,93949.93943
+4285,Suzuki,Samurai,Khaki,1994,71299.85683
+4107,Pontiac,Bonneville,Puce,1999,91396.7192
+4495,Lexus,GX,Mauv,2008,94889.77635
+4364,Ford,Freestar,Goldenrod,2005,87983.59223
+4413,Land Rover,Range Rover,Turquoise,2001,88138.53575
+4846,Mazda,Mazdaspeed 3,Indigo,2007,93011.06045
+3722,Toyota,Camry,Indigo,2000,89470.3795
+3700,Mitsubishi,Lancer,Goldenrod,2004,68570.34448
+3562,Mitsubishi,Starion,Aquamarine,1985,73092.03465
+4921,Honda,Accord,Turquoise,1988,84166.84573
+3714,Pontiac,Firebird,Purple,1984,74410.1152
+3897,Lexus,CT,Teal,2011,69190.91035
+3952,Buick,Somerset,Turquoise,1987,93119.29903
+4171,BMW,M5,Pink,2000,82933.94453
+4301,Volvo,S60,Purple,2005,83793.73398
+3937,Infiniti,G37,Yellow,2011,89517.4559
+4751,Dodge,Ram 2500,Blue,2008,83335.8241
+4890,Mitsubishi,Excel,Teal,1989,84029.51675
+4489,Chevrolet,Camaro,Maroon,1969,76380.58903
+4765,Jeep,Wrangler,Blue,2008,78814.73998
+4538,Ford,Club Wagon,Teal,1993,91183.17455
+4447,Subaru,Justy,Crimson,1988,88255.20038
+4184,Nissan,Frontier,Pink,2011,70396.8912
+4151,Hyundai,Tucson,Red,2010,82514.63613
+3942,Chevrolet,Camaro,Khaki,1967,78917.02558
+4180,Nissan,Frontier,Orange,2007,77007.32293
+3516,Toyota,Sequoia,Indigo,2009,91632.00345
+4388,Ford,Festiva,Aquamarine,1990,83543.55263
+3961,Chevrolet,Suburban 2500,Aquamarine,2007,96110.40993
+4787,Mazda,MPV,Khaki,2006,82133.71415
+3816,Hyundai,Veracruz,Mauv,2010,93097.66695
+4545,Kia,Sedona,Khaki,2003,89806.78613
+4068,GMC,Sierra 3500,Red,2007,84333.8907
+4170,Chevrolet,Metro,Turquoise,2000,93908.56185
+4686,Dodge,Daytona,Goldenrod,1984,69338.9234
+4402,Cadillac,DTS,Fuscia,2010,84401.70965
+4260,Mitsubishi,Tredia,Puce,1988,94893.99915
+3787,Subaru,Impreza,Blue,2003,92405.5774
+3879,Infiniti,EX,Crimson,2009,72001.3597
+3858,Mercury,Sable,Khaki,1996,86589.55993
+4977,Volvo,XC60,Purple,2012,68471.96888
+4721,Isuzu,i-370,Khaki,2007,75395.22993
+3619,Chevrolet,Caprice,Fuscia,1977,89893.69565
+4868,Toyota,Tundra,Goldenrod,2004,82840.06543
+4498,Jaguar,XK Series,Maroon,2005,86174.20063
+3934,Chevrolet,G-Series G10,Puce,1994,71889.7683
+4541,Suzuki,Vitara,Indigo,2004,71353.7073
+4607,Kia,Sedona,Blue,2011,97159.59978
+4336,Honda,Accord,Teal,1985,70029.84973
+4703,Ford,Taurus X,Crimson,2008,72691.13258
+4719,Ford,Aerostar,Goldenrod,1996,96492.39738
+3889,Mercedes-Benz,SL-Class,Turquoise,2009,95753.09458
+4421,BMW,M3,Turquoise,2009,92676.62838
+4332,Chevrolet,Cruze,Violet,2012,72041.84775
+4491,GMC,Sierra 3500,Blue,2006,71698.23695
+4083,Chevrolet,Camaro,Goldenrod,1969,79346.50975
+4213,Lexus,IS,Violet,2005,81678.91273
+3898,Mercedes-Benz,400E,Violet,1993,69620.50205
+3807,Pontiac,Firefly,Aquamarine,1995,91247.87528
+4584,Subaru,Impreza WRX,Fuscia,2010,86069.70588
+4292,Toyota,Celica,Yellow,1994,84273.93085
+3630,Cadillac,CTS,Khaki,2010,81527.70325
+4468,Nissan,Pathfinder,Teal,1995,80148.56805
+4377,Pontiac,G8,Goldenrod,2008,69631.71398
+3611,Ford,Mustang,Puce,1970,78245.48308
+4826,Ford,Tempo,Goldenrod,1991,81411.2048
+4508,Volkswagen,Cabriolet,Turquoise,2000,93724.76253
+3727,Mazda,MPV,Green,1990,75350.783
+4536,Dodge,Ram Van 1500,Blue,1998,74482.97805
+3527,Pontiac,Firefly,Maroon,1990,69000.50313
+4291,Volkswagen,Jetta,Turquoise,1984,91477.16745
+4218,Honda,Accord,Fuscia,1992,72769.80178
+4881,Buick,Park Avenue,Goldenrod,2004,88883.11705
+4918,Audi,5000S,Aquamarine,1988,97395.57805
+4574,BMW,M3,Aquamarine,1999,72699.7248
+4091,Volkswagen,Cabriolet,Green,1989,70843.97038
+3697,Chrysler,300,Purple,2010,74476.21375
+4892,Volkswagen,Jetta,Orange,1995,88621.4012
+3518,Lincoln,Mark VIII,Khaki,1994,68732.2478
+3634,Chevrolet,Express,Purple,2009,74569.03715
+3642,Mazda,MX-5,Goldenrod,2005,80523.96715
+3779,Cadillac,Eldorado,Yellow,1999,92736.7153
+4533,Honda,Odyssey,Pink,1998,71915.32015
+4577,Chevrolet,Corvette,Khaki,1995,79991.0928
+4546,Dodge,Challenger,Crimson,2011,97103.85295
+3781,Mitsubishi,Lancer Evolution,Green,2003,88262.33613
+4580,Lexus,IS-F,Fuscia,2010,83047.83305
+4369,Isuzu,Trooper,Purple,1994,74401.435
+4855,Lotus,Elise,Goldenrod,2009,88820.58638
+4701,Nissan,Maxima,Violet,1997,72738.57065
+4453,Volkswagen,GTI,Indigo,2000,91478.34045
+4672,Hyundai,Tucson,Pink,2011,93301.95468
+4618,Mitsubishi,Precis,Aquamarine,1994,87969.74105
+4974,Dodge,Ram 2500,Goldenrod,2007,72803.8481
+4075,Chevrolet,Astro,Pink,1997,72410.08178
+3909,Ferrari,599 GTB Fiorano,Mauv,2009,86617.24273
+4102,Plymouth,Sundance,Blue,1993,93062.93638
+4410,Ford,LTD Crown Victoria,Mauv,1985,94379.23788
+3833,Mazda,B2000,Green,1985,80972.66898
+4407,Pontiac,Grand Prix,Aquamarine,1962,84346.31473
+4988,Volkswagen,Corrado,Aquamarine,1993,94088.89105
+4124,Mitsubishi,Starion,Yellow,1987,85792.14475
+4405,Ferrari,612 Scaglietti,Turquoise,2009,75433.7141
+4335,Subaru,Justy,Puce,1990,69577.32588
+3600,Ford,Aspire,Orange,1996,75645.03005
+4023,Scion,iQ,Goldenrod,2012,72362.2136
+4189,Ford,F150,Indigo,2004,88685.53498
+4150,Ford,Mustang,Yellow,1987,96926.6713
+4172,Ford,Explorer Sport,Mauv,2001,91774.00488
+3604,Hyundai,Sonata,Orange,1999,84157.3151
+3531,Mercury,Grand Marquis,Yellow,1989,86129.86123
+4557,Toyota,Matrix,Turquoise,2011,81358.0679
+4192,Lexus,ES,Blue,2002,91414.12848
+4711,Toyota,Sequoia,Green,2008,72582.10223
+3804,Mitsubishi,Mighty Max,Khaki,1992,77473.4829
+4668,Oldsmobile,Intrigue,Purple,2000,95762.83048
+3629,GMC,Acadia,Maroon,2010,78887.52463
+4647,Jaguar,X-Type,Khaki,2005,70757.60825
+3637,Honda,Pilot,Mauv,2010,72660.53683
+3906,Ford,Windstar,Indigo,2001,80997.14558
+4060,Mazda,Protege,Orange,2002,92734.51593
+4943,Nissan,Murano,Goldenrod,2009,71585.6876
+4096,Ford,Escape,Fuscia,2009,86775.1383
+3767,Mercedes-Benz,E-Class,Puce,1985,91421.16648
+4849,GMC,Yukon XL 2500,Crimson,2003,73777.46743
+4244,Nissan,Sentra,Turquoise,2003,77169.29468
+3625,Suzuki,Vitara,Teal,2002,88963.70215
+4191,Cadillac,Seville,Maroon,2004,86151.82565
+4901,Dodge,Durango,Goldenrod,2006,89427.1349
+4537,Saab,9-May,Aquamarine,2011,73944.32668
+4931,Volkswagen,GTI,Fuscia,2011,73575.3693
+4870,GMC,Sierra 1500,Violet,2008,89066.45695
+4796,Honda,Ridgeline,Blue,2007,83157.65518
+4969,Toyota,Prius,Purple,2003,93601.73438
+4712,Mazda,Miata MX-5,Maroon,2002,72362.6828
+4144,Lexus,GS,Fuscia,2007,84495.5301
+4641,GMC,Acadia,Goldenrod,2007,92184.21275
+4737,Suzuki,Kizashi,Red,2011,70869.4147
+3883,Lexus,LX,Yellow,2009,80073.6329
+4006,Mercedes-Benz,SL-Class,Blue,2000,70735.1844
+3708,Toyota,Highlander,Crimson,2005,83866.55
+4460,Isuzu,Rodeo,Red,1992,73374.99
+3983,Mitsubishi,Truck,Yellow,1991,83244.7
+4704,Pontiac,Grand Am,Turquoise,1996,91897.26
+3973,Toyota,Avalon,Crimson,2005,96522.74
+4591,Dodge,Viper,Puce,2004,87501.19
+3628,Mercedes-Benz,CL-Class,Purple,2004,88058.94
+4493,GMC,Acadia,Teal,2007,78636.95
+4194,Suzuki,SJ,Crimson,1985,92044.91
+3579,Volvo,V50,Goldenrod,2011,74182.73
+4015,Toyota,Avalon,Violet,2002,91062.82
+4935,Mercedes-Benz,M-Class,Khaki,2012,90076.2
+3840,Isuzu,Hombre,Crimson,1999,89015.98
+4506,Honda,Accord,Green,2003,76138.32
+3674,Ford,F-Series Super Duty,Fuscia,2008,92967.74
+4975,Ford,Focus,Violet,2003,99629.95
+3839,Audi,100,Goldenrod,1992,89138.74
+4362,Toyota,Corolla,Fuscia,2005,87237.49
+4666,Rolls-Royce,Phantom,Crimson,2011,93090.37
+4425,Mercury,Mountaineer,Violet,2001,77386.94
+4178,Aston Martin,Vantage,Crimson,2008,84941.17
+4066,Kia,Sorento,Purple,2011,76721.81
+4437,Geo,Metro,Green,1995,95975.43
+4043,Chrysler,300,Indigo,2007,85477.5
+4324,Ford,Explorer Sport Trac,Teal,2007,70858.54
+4818,Infiniti,QX,Yellow,2004,80744.27
+4063,Toyota,Matrix,Goldenrod,2012,71141.72
+4823,Chevrolet,3500,Fuscia,1995,84894.96
+4575,Chevrolet,Silverado 3500HD,Red,2006,95090.46
+4776,Cadillac,Escalade EXT,Crimson,2012,95509.11
+4128,Oldsmobile,Cutlass Supreme,Teal,1993,86940.2
+4046,Dodge,Avenger,Yellow,1996,78151.87
+4200,Pontiac,Sunfire,Pink,2004,74973.65
+4201,Buick,Century,Purple,1991,91367.44
+3926,Toyota,MR2,Pink,1986,70361.22
+4348,Volvo,V40,Goldenrod,2004,81536.03
+4502,Acura,MDX,Red,2009,89628.23
+4479,Jaguar,XK,Pink,2007,97467.17
+4744,Porsche,928,Khaki,1990,93138.32
+4193,Suzuki,X-90,Mauv,1998,97848.78
+3596,Kia,Optima,Violet,2002,86111.3
+3791,Volkswagen,New Beetle,Teal,2010,70313.29
+4376,Volkswagen,Cabriolet,Yellow,1989,92979.58
+3720,Chrysler,Sebring,Orange,1999,97421.62
+3526,Volkswagen,Touareg 2,Khaki,2009,82980.69
+4353,Chevrolet,Vega,Yellow,1971,81973.94
+3981,Volvo,V40,Orange,2002,95566.11
+4891,BMW,3 Series,Red,2004,80797.44
+4140,Toyota,Camry,Turquoise,2006,79811.63
+3695,Suzuki,Forenza,Teal,2006,82698.25
+4050,Ford,F350,Khaki,2009,85520.13
+3832,Subaru,Outback,Orange,2012,85613.37
+3575,Infiniti,EX,Blue,2010,99226.75
+4822,Lotus,Esprit,Violet,1988,88673.85
+4573,BMW,X5,Yellow,2002,76544.48
+4898,Kia,Mentor,Yellow,1997,83571.31
+3741,Dodge,Ram Van 3500,Goldenrod,2001,95981.93
+4683,Chevrolet,Suburban 1500,Fuscia,2011,97268.15
+3749,Ford,Galaxie,Red,1964,97478.79
+4946,Maserati,Spyder,Fuscia,2004,73055.45
+4735,BMW,M3,Violet,2011,95623.56
+3808,Buick,Skyhawk,Puce,1984,84888.19
+3762,Mazda,Protege,Teal,1998,94181.73
+4374,Acura,NSX,Yellow,1993,85890.77
+3621,Mitsubishi,Raider,Crimson,2009,73244.16
+3831,Pontiac,Bonneville,Indigo,1968,82658.39
+4241,Ford,E150,Crimson,2004,99909.18
+4569,Audi,S5,Red,2012,86358.01
+3948,GMC,1500,Yellow,1996,71428.8
+3780,Volvo,S60,Crimson,2003,87804.77
+4754,Volvo,V50,Puce,2010,76636.25
+4247,Volvo,C70,Turquoise,2008,77976.93
+4644,Volkswagen,Beetle,Orange,1965,77836.38
+3914,Mercury,Lynx,Khaki,1985,85288.96
+4544,Volkswagen,Jetta,Yellow,1987,93847.98
+4208,Pontiac,Bonneville,Turquoise,1986,85390.58
+4510,Jeep,Compass,Red,2008,97832.84
+4631,Buick,Riviera,Turquoise,1989,87218.58
+4131,GMC,3500 Club Coupe,Puce,1996,70188.06
+4731,Mercedes-Benz,E-Class,Fuscia,2011,86056.04
+4472,Mitsubishi,L300,Aquamarine,1990,97818.59
+4809,Lamborghini,Murci�lago LP640,Goldenrod,2008,90730.17
+3911,Mazda,MPV,Pink,1990,88206.45
+4311,Geo,Tracker,Aquamarine,1992,70183.93
+4528,Mercury,Mountaineer,Blue,2006,93524.98
+3587,Suzuki,Reno,Yellow,2007,99463.07
+4728,Mitsubishi,Excel,Indigo,1989,73282.04
+4792,Buick,Century,Turquoise,1996,82609.91
+3976,Volkswagen,Eurovan,Blue,1994,84919.98
+4270,Audi,A4,Khaki,1998,71980.56
+3584,Chevrolet,Impala,Violet,1996,79950.13
+4722,Saab,9000,Puce,1987,89156.58
+3799,Chevrolet,Malibu,Puce,2013,91029.1
+4304,Ferrari,612 Scaglietti,Mauv,2010,74364.7
+3821,Pontiac,Grand Am,Fuscia,1988,98148.53
+4828,Dodge,Ram 1500,Teal,1994,72043.78
+4462,Nissan,370Z,Mauv,2009,90638.34
+4986,Chevrolet,Camaro,Yellow,2010,91677.79
+4634,Volvo,S40,Mauv,2001,98256.4
+4764,Buick,Century,Pink,1999,91443.42
+3677,Mitsubishi,Eclipse,Blue,1991,92787.92
+4673,Nissan,Sentra,Pink,1999,99288.67
+4478,Volvo,850,Orange,1994,81891.92
+4458,Volvo,XC70,Mauv,2011,80360.97
+4076,Land Rover,Discovery,Mauv,2012,83440.73
+4403,Mercedes-Benz,R-Class,Puce,2009,85606.91
+4326,Ford,F-Series,Goldenrod,2001,70142.69
+3956,Toyota,4Runner,Pink,2000,86306.45
+3656,Volvo,C70,Goldenrod,2009,99448.61
+4109,Subaru,Legacy,Green,2009,70854.3
+3523,Mercedes-Benz,SL-Class,Green,2011,77311.07
+4264,Pontiac,GTO,Goldenrod,2004,97178.73
+3950,Chrysler,Grand Voyager,Indigo,2000,72271.55
+4697,Chrysler,Cirrus,Red,1999,73998.81
+4812,Volkswagen,New Beetle,Blue,2003,82603.45
+4496,Pontiac,Sunfire,Red,2004,87331.7
+4651,Dodge,Caliber,Goldenrod,2010,80696.46
+4411,Mercedes-Benz,E-Class,Aquamarine,2005,93110.71
+4079,Jeep,Liberty,Purple,2002,96563.36
+4216,Chevrolet,Impala,Pink,2003,94256.82
+4979,Nissan,Pathfinder,Khaki,2002,83258.12
+3529,Bentley,Continental GT,Indigo,2008,87756.71
+3924,Subaru,XT,Teal,1985,84730.82
+4852,Chevrolet,Beretta,Teal,1995,95061.18
+4614,Chevrolet,Monte Carlo,Fuscia,2004,90061.03
+4671,Mazda,CX-7,Teal,2012,70228.82
+4889,Toyota,Land Cruiser,Crimson,2005,94778.54
+4714,GMC,Savana 1500,Crimson,2011,96824.49
+4705,Hyundai,Tiburon,Maroon,2001,89372.28
+4108,Chrysler,Voyager,Goldenrod,2001,94491.14
+3687,BMW,7 Series,Turquoise,2012,76442.08
+4243,Chrysler,Imperial,Blue,1992,81948.28
+3820,Nissan,Sentra,Red,2009,77630.78
+4092,GMC,Yukon XL 1500,Crimson,2010,75926.78
+4494,Mercedes-Benz,CL-Class,Crimson,2004,75231.6
+3646,Jeep,Grand Cherokee,Fuscia,2002,99557.84
+4119,Land Rover,Range Rover Classic,Teal,1993,73797.53
+4117,Mercedes-Benz,CL-Class,Crimson,2008,98611.79
+3524,Suzuki,Sidekick,Blue,1998,93811.03
+4281,Audi,riolet,Teal,1996,79549.75
+4878,Mitsubishi,Endeavor,Aquamarine,2006,77755.58
+3681,Mercedes-Benz,SL-Class,Blue,2011,93837.13
+4987,Mitsubishi,Galant,Aquamarine,2002,75262.78
+3686,Acura,SLX,Khaki,1999,96373.59
+3608,Cadillac,XLR-V,Maroon,2006,83931.75
+4912,Infiniti,G35,Goldenrod,2007,71478.22
+4522,Mitsubishi,Pajero,Orange,2004,79288.71
+3736,GMC,Suburban 1500,Red,1999,89866.09
+4940,Volkswagen,Scirocco,Aquamarine,1987,92408.66
+4874,Jaguar,X-Type,Fuscia,2005,96617.38
+4836,Dodge,Nitro,Teal,2007,90018.2
+4971,Mitsubishi,Galant,Goldenrod,1998,94604.04
+4689,Oldsmobile,88,Goldenrod,1995,82167.85
+4087,Mercedes-Benz,CLS-Class,Teal,2006,89425.62
+4271,Pontiac,Bonneville,Blue,1985,78069.68
+4803,Toyota,Corolla,Khaki,1995,85460.84
+3869,Toyota,Venza,Aquamarine,2012,91388.35
+3580,Mercury,Mariner,Fuscia,2009,89620.24
+3694,Volkswagen,Cabriolet,Goldenrod,1998,79547.17
+3715,Nissan,240SX,Turquoise,1995,71600.87
+4316,Mercedes-Benz,GL-Class,Teal,2007,93048.36
+4024,Pontiac,Sunfire,Fuscia,1995,87764.83
+4442,Dodge,Durango,Green,1998,76963.53
+3610,Kia,Sportage,Yellow,2005,82949.91
+3532,Isuzu,i-370,Fuscia,2008,71907.75
+3622,Suzuki,Sidekick,Mauv,1992,84306.57
+4177,Buick,Lucerne,Maroon,2008,88672.42
+3612,Jaguar,XJ Series,Turquoise,1993,73435.32
+4287,Saab,9-7X,Red,2006,99226.94
+3857,Mercedes-Benz,SL-Class,Maroon,2009,96522.72
+4237,Suzuki,Daewoo Magnus,Puce,2005,70830.91
+3823,Chevrolet,Suburban 1500,Orange,2004,86399.57
+4877,Ford,Edge,Khaki,2009,79570.98
+3852,Buick,Century,Purple,2002,82955.73
+4265,Ford,Econoline E250,Fuscia,2002,91758.71
+3613,Mercury,Mariner,Teal,2009,87951.96
+3876,Mercedes-Benz,W201,Red,1988,97850.07
+3620,Honda,CR-V,Orange,1997,89114.75
+4766,Porsche,Boxster,Puce,2003,94688.39
+4274,Buick,Somerset,Puce,1986,95153.78
+4886,Pontiac,Safari,Red,1987,78808.2
+4306,GMC,Yukon,Yellow,1996,99931.57
+4761,BMW,760,Yellow,2004,75286.36
+3878,Toyota,Celica,Puce,2003,80888.4
+3941,Infiniti,G,Yellow,1996,72422.29
+4995,Mazda,Familia,Khaki,1990,79592.41
+4161,Hyundai,Elantra,Violet,1997,88926.42
+4543,Porsche,944,Yellow,1985,72484.45
+4455,BMW,760,Orange,2006,75290.11
+3573,Chevrolet,Express 1500,Red,2009,95276.24
+4227,Lamborghini,Murci�lago,Crimson,2008,97779.66
+4182,Buick,LaCrosse,Turquoise,2007,70711.08
+4204,Jaguar,XJ Series,Teal,2002,99112.14
+4847,Chevrolet,Camaro,Turquoise,1977,96640.84
+3753,Lincoln,Continental Mark VII,Purple,1988,77034.04
+4863,Buick,Regal,Purple,1989,83014.95
+4514,Chevrolet,Silverado 1500,Orange,2010,96269.37
+4636,Jaguar,XK Series,Fuscia,2005,92642.04
+4610,Buick,Somerset,Mauv,1985,96754.84
+4571,Mazda,Navajo,Maroon,1993,89391.63
+3764,Saab,900,Green,1993,87541.4
+4038,Cadillac,Seville,Fuscia,2001,94673.72
+4645,Subaru,Outback,Khaki,2006,98764.56
+3633,Dodge,Durango,Yellow,2005,87470.55
+3702,Chevrolet,Avalanche,Violet,2012,90645
+3718,Dodge,Ram 2500,Teal,1995,91223.53
+3964,Cadillac,Escalade EXT,Fuscia,2011,90356.84
+4560,Chevrolet,Aveo,Yellow,2006,72571.11
+4282,Mercedes-Benz,E-Class,Khaki,2007,73585.47
+3542,Aston Martin,V12 Vantage,Green,2012,93732.39
+4894,Mazda,B-Series Plus,Blue,1996,79223.74
+4717,Isuzu,Oasis,Mauv,1996,97675.46
+4062,Toyota,MR2,Puce,2001,77911.47
+4867,Lexus,GX,Puce,2012,78929.89
+3570,Mercedes-Benz,300D,Pink,1993,77213.34
+4215,Ford,Excursion,Maroon,2005,84956.81
+4148,Suzuki,Swift,Maroon,1996,97057.29
+4676,Cadillac,Escalade,Maroon,1999,98956.34
+3991,Ford,F-Series Super Duty,Maroon,2010,94660.91
+4457,Pontiac,Vibe,Khaki,2006,78919.14
+4559,Lamborghini,Gallardo,Green,2003,91507.15
+3748,Jaguar,XJ Series,Crimson,2001,99376.55
+4355,Volvo,V50,Pink,2010,88589.3
+4593,Chevrolet,3500,Indigo,1996,83183.99
+4887,Ford,Focus,Mauv,2004,83193.43
+4844,Dodge,Intrepid,Pink,1999,85158.51
+4432,Ford,Explorer,Aquamarine,2013,91177.01
+4924,Chevrolet,HHR,Turquoise,2007,96979.12
+4310,Buick,Terraza,Purple,2006,70988.1
+4861,Kia,Sportage,Puce,2009,63639.09
+4040,Pontiac,GTO,Pink,1970,77247.639
+4665,Geo,Tracker,Puce,1994,82137.51
+3603,Isuzu,Amigo,Indigo,1993,85151.493
+4623,GMC,Canyon,Puce,2010,63071.397
+3609,BMW,5 Series,Goldenrod,1994,82539.387
+4398,Nissan,Frontier,Aquamarine,2001,68580.891
+4414,Nissan,Sentra,Yellow,2006,76450.23
+3551,Mercedes-Benz,S-Class,Blue,1985,84462.579
+4578,Toyota,Venza,Indigo,2012,84189.852
+4709,Mitsubishi,Mirage,Puce,1998,89129.574
+4505,Lamborghini,Murci�lago,Blue,2002,84301.542
+4742,Buick,Century,Crimson,1991,72309.744
+4663,Oldsmobile,Cutlass Supreme,Maroon,1994,86912.604
+4660,Mercedes-Benz,CL-Class,Violet,2007,69064.029
+3995,Dodge,Charger,Violet,1969,86122.971
+3969,Lexus,GS,Puce,2013,66053.934
+4696,Mercedes-Benz,SLK-Class,Aquamarine,2007,72715.842
+3813,Ford,Transit Connect,Khaki,2012,81104.436
+4064,Toyota,Sequoia,Khaki,2009,66522.528
+3735,Jeep,Grand Cherokee,Orange,2010,83160.9
+3561,Dodge,Intrepid,Goldenrod,2002,80695.935
+4804,BMW,X5,Violet,2004,63980.757
+4136,Jaguar,XK,Crimson,2009,80467.587
+3535,Citro�n,CX,Pink,1989,76835.646
+4762,Chevrolet,Cruze,Orange,2011,63492.66
+4397,Morgan,Aero 8,Violet,2007,78946.686
+4188,Pontiac,Grand Am,Puce,1990,68572.674
+4501,Buick,Regal,Yellow,2002,86541.813
+4568,Infiniti,QX,Green,2011,81483.003
+4827,Chevrolet,Citation,Teal,1980,87972.948
+4430,Chrysler,Town & Country,Mauv,1996,89110.395
+4652,Bentley,Continental GTC,Puce,2011,88938.675
+4710,Oldsmobile,Bravada,Teal,2004,85923.162
+3988,Volkswagen,Scirocco,Purple,1985,82418.805
+3670,Ford,Bronco,Red,1990,68516.694
+4685,Mazda,Miata MX-5,Orange,2001,81672.84
+4359,Honda,FCX Clarity,Yellow,2012,67475.466
+3517,Audi,A3,Violet,2012,75705.813
+3842,Acura,NSX,Khaki,1992,71896.716
+4944,Dodge,Ram 1500,Pink,1999,78921.765
+4950,Cadillac,Seville,Khaki,1997,80583.12
+3540,Toyota,Paseo,Aquamarine,1993,72735.408
+4832,GMC,Savana 1500,Pink,2000,83167.38
+4790,Maserati,Gran Sport,Violet,2005,82516.41
+3701,Isuzu,Rodeo,Blue,1994,82345.221
+4638,Mazda,Miata MX-5,Pink,2012,74606.211
+4371,Toyota,Tacoma,Goldenrod,2001,76320.594
+4736,Chevrolet,Monte Carlo,Yellow,2000,76184.892
+3999,Buick,Coachbuilder,Teal,1994,81410.022
+4789,Pontiac,Grand Prix,Indigo,1982,83265.003
+3567,Oldsmobile,Cutlass Cruiser,Fuscia,1993,79861.572
+3566,Chevrolet,Malibu,Mauv,1999,76307.778
+4615,Mitsubishi,L300,Goldenrod,1987,82684.305
+4743,Pontiac,Firebird,Violet,1989,66058.956
+3667,Saab,9-Mar,Crimson,2004,67466.637
+3530,Mercedes-Benz,S-Class,Puce,1996,63942.057
+4778,Subaru,Loyale,Khaki,1990,65907.09
+4097,Chrysler,Sebring,Pink,2007,68917.923
+3946,Buick,Century,Maroon,2004,87037.2
+4440,Volkswagen,rio,Puce,2000,71433.351
+4449,Volvo,C70,Indigo,2008,86124.195
+4217,Cadillac,Escalade,Red,2007,63033.777
+4919,Chrysler,Concorde,Red,1999,84642.417
+3818,Oldsmobile,Silhouette,Aquamarine,2004,76122.882
+3659,Dodge,Stratus,Indigo,1998,84496.995
+3711,Mercedes-Benz,E-Class,Puce,1984,65233.152
+4759,Chrysler,300M,Maroon,2002,69921.972
+4622,Ford,Ranger,Aquamarine,1984,67393.926
+4396,Dodge,Avenger,Turquoise,2008,63302.4
+3678,Isuzu,Trooper,Puce,1992,84779.514
+4741,Subaru,Forester,Red,2007,72304.02
+4590,Honda,Civic,Crimson,2003,73965.204
+3725,Volkswagen,GTI,Purple,1997,69403.689
+4925,GMC,Sierra 3500HD,Khaki,2006,78679.566
+4211,Nissan,Cube,Turquoise,2009,68608.35
+4206,Dodge,Ram Van 2500,Teal,2003,73575.72
+4980,Buick,LeSabre,Violet,1998,79363.62
+4016,Volvo,V90,Maroon,1997,87936.624
+4824,Isuzu,Trooper,Khaki,1992,85538.07
+3891,Ford,F250,Orange,1999,80657.73
+4267,Suzuki,Vitara,Yellow,2002,75467.574
+4871,Toyota,Solara,Yellow,2003,70528.59
+4214,Ford,Aerostar,Red,1997,73071.882
+3632,Lincoln,LS,Puce,2003,65180.43
+4434,Mercedes-Benz,CLK-Class,Blue,2007,82252.917
+4005,Nissan,Frontier,Pink,2006,65155.275
+4273,Chevrolet,Express 3500,Pink,2007,88409.952
+4903,Ford,F-Series,Green,1993,65508.696
+3846,Mitsubishi,Challenger,Violet,1997,79972.902
+4555,Nissan,Maxima,Khaki,1997,71698.158
+4511,Toyota,Previa,Purple,1995,82402.848
+4163,Buick,Lucerne,Indigo,2011,83040.021
+3773,Subaru,Forester,Red,2007,66811.914
+3793,Oldsmobile,Bravada,Orange,1997,89603.784
+3884,GMC,1500,Yellow,1997,83228.706
+4830,Maybach,57,Goldenrod,2005,78694.92
+3870,Mazda,Miata MX-5,Crimson,2005,89057.178
+4256,Mitsubishi,Truck,Maroon,1985,76438.53
+4834,Mercedes-Benz,300SD,Red,1993,70598.799
+4219,Lotus,Elise,Maroon,2004,81725.607
+4391,Mitsubishi,Pajero,Purple,1998,64395.918
+4625,Toyota,Highlander,Yellow,2008,86097.366
+4022,Isuzu,VehiCROSS,Purple,2001,85539.222
+3578,Acura,ZDX,Khaki,2010,84408.219
+4373,Mazda,MX-3,Purple,1994,83945.106
+4621,Mercury,Capri,Pink,1986,80333.991
+3907,Audi,S4,Orange,2001,82628.838
+3743,Saab,9-May,Yellow,2006,66494.115
+3890,Dodge,Stratus,Indigo,1997,73916.676
+4702,Saturn,VUE,Mauv,2003,73219.104
+4365,Dodge,Stratus,Green,2003,76409.154
+4248,Chevrolet,Suburban 1500,Purple,1997,68938.677
+4914,Pontiac,Montana,Purple,2006,84617.298
+3896,Infiniti,Q,Yellow,2006,69437.655
+3653,Land Rover,Range Rover Sport,Red,2012,78928.155
+4198,BMW,Z3,Khaki,1999,82277.424
+3775,Chevrolet,Express 2500,Red,1996,85228.758
+3581,Chevrolet,Suburban 1500,Maroon,2001,78367.203
+4882,Toyota,RAV4,Green,2001,87077.493
+4360,Mercedes-Benz,SL-Class,Yellow,2011,82328.013
+3802,Dodge,Ram 2500,Orange,2007,86636.889
+4799,Cadillac,DeVille,Blue,1999,75211.524
+3658,BMW,Z3,Green,2001,80829.054
+4392,Mitsubishi,Pajero,Fuscia,2003,63497.457
+4746,Subaru,Baja,Indigo,2004,63713.817
+3986,Lexus,IS-F,Green,2012,71816.157
+4329,Mitsubishi,Cordia,Mauv,1986,69237.108
+4139,Mercedes-Benz,S-Class,Puce,1998,73912.644
+4363,Kia,Rio,Blue,2013,63130.581
+4773,Nissan,Maxima,Turquoise,2009,67492.557
+3509,GMC,2500 Club Coupe,Puce,1993,83682.333
+4606,Dodge,Ram Van 3500,Turquoise,2001,64409.544
+3971,Lincoln,LS,Mauv,2003,77445.315
+4300,Pontiac,G6,Yellow,2008,68718.708
+3759,Dodge,Ram 2500,Turquoise,2007,79185.006
+4044,Oldsmobile,Ciera,Violet,1993,76515.111
+3665,Chevrolet,Suburban,Blue,2008,86716.116
+4917,Honda,Accord Crosstour,Crimson,2011,69940.746
+3538,Pontiac,Trans Sport,Goldenrod,1991,71693.379
+3719,Ford,Econoline E350,Teal,1996,77683.239
+4242,Audi,S5,Turquoise,2011,64079.415
+4120,Toyota,4Runner,Mauv,2006,84665.187
+4601,BMW,M3,Indigo,2001,74223.585
+4234,Eagle,Talon,Yellow,1990,82072.017
+3940,Toyota,Celica,Puce,1997,63295.92
+3522,Maybach,57,Mauv,2005,82335.348
+3699,Mercedes-Benz,400SEL,Teal,1993,82296.459
+4031,Volkswagen,Rabbit,Maroon,2009,79957.539
+4415,Honda,Accord,Aquamarine,2007,81267.696
+3586,Bentley,Continental,Pink,2007,87676.677
+3814,GMC,Sierra 2500HD,Turquoise,2006,63741.501
+3917,Dodge,Ram 1500 Club,Red,1996,84583.494
+4680,Mazda,Protege,Crimson,1997,72762.147
+3660,Nissan,Rogue,Blue,2008,89439.84
+3546,Toyota,Corolla,Aquamarine,2004,68270.742
+4010,Chevrolet,Corvette,Purple,1962,69757.578
+4967,Mitsubishi,Excel,Pink,1989,78498.972
+4774,Chevrolet,Express 3500,Fuscia,1998,86201.775
+4784,Dodge,Caliber,Violet,2008,63115.776
+4330,Honda,S2000,Green,2003,74438.82
+3557,Suzuki,Grand Vitara,Puce,2010,85261.842
+4077,Mitsubishi,GTO,Purple,1999,66926.061
+4820,Kia,Mentor,Goldenrod,1997,72671.688
+3975,Pontiac,Bonneville,Fuscia,1991,69646.086
+4276,Subaru,XT,Maroon,1989,85584.492
+4608,Subaru,XT,Pink,1991,72537.507
+3668,Toyota,Solara,Green,1999,89001.891
+4002,GMC,Yukon XL 1500,Pink,2002,85604.067
+3512,Saab,9-May,Indigo,2006,88856.595
+4049,GMC,3500 Club Coupe,Purple,1994,83018.637
+4978,Mercedes-Benz,CLS-Class,Crimson,2010,88108.929
+4048,Chevrolet,Astro,Yellow,1996,64930.041
+4857,Isuzu,Trooper,Maroon,1992,66557.511
+4412,Lexus,LS,Puce,1989,76208.211
+4517,Suzuki,Sidekick,Blue,1992,70319.223
+3607,Mercury,Cougar,Turquoise,1992,73677.519
+3568,Volkswagen,Passat,Fuscia,1997,78779.772
+3738,Isuzu,Rodeo,Blue,1994,70575.867
+4436,BMW,M3,Goldenrod,2002,79344.828
+4873,Cadillac,Escalade EXT,Violet,2002,67564.773
+4771,Buick,Century,Aquamarine,1989,63498.213
+4646,Ford,Tempo,Mauv,1985,81553.302
+4893,Honda,Accord,Blue,2011,85609.017
+4915,Volvo,XC60,Red,2012,87334.803
+4471,Audi,Q7,Green,2012,78386.643
+3503,Maserati,430,Blue,1990,73400.607
+3928,Lexus,CT,Purple,2012,73010.853
+4788,Ford,F150,Pink,2004,76548.384
+4334,Chevrolet,Corvette,Green,1998,79490.961
+3955,Volkswagen,Cabriolet,Goldenrod,1985,66299.202
+3908,Lincoln,Town Car,Khaki,2008,69666.903
+4039,Mazda,CX-9,Violet,2012,72469.674
+3583,Lincoln,Continental Mark VII,Goldenrod,1990,87315.363
+3984,Kia,Sportage,Khaki,2002,86477.031
+4253,Chevrolet,Caprice,Violet,1995,89080.038
+3618,Dodge,Durango,Maroon,2009,82066.239
+3877,BMW,X6,Purple,2013,70166.367
+4288,Plymouth,Prowler,Khaki,2000,82602.747
