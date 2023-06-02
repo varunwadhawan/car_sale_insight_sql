@@ -1,4 +1,4 @@
-# car_sale_insight_sql
+# car_sale_insight_sql/tableau
 The project on cars sales insights utilized SQL and Tableau to conduct data modeling, data visualization, and data analysis, enabling valuable insights for business strategies and problem-solving.
 The key questions addressed in the project focused on understanding customer distribution across states, average ratings per quarter, top vehicle makers preferred by customers, customer satisfaction trends over time, most preferred vehicle make in each state, trend of orders by quarters, quarter over quarter percentage change in revenue, trend of revenue and orders by quarters, average discounts offered for different credit card types, average shipping time for placed orders per quarter, percentage of credit card usage for car purchases, and state-wise sales distribution.
 
